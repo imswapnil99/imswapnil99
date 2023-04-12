@@ -3,19 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imswapnil99&label=Profile%20views&color=0e75b6&style=flat" alt="imswapnil99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imswapnil99" alt="imswapnil99" /></a> </p>
-
-- 🌱 I’m currently learning **Terraform ,**
+- 🌱 I’m currently learning **Terraform , Ansible , Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/swapnilkhairnar78/](https://www.linkedin.com/in/swapnilkhairnar78/)
 
-- 💬 Ask me about **DevOps , Automation , AWS**
+- 💬 Ask me about **DevOps , Automation**
 
 - 📫 How to reach me **swapnilkhairnar.78@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ITRbJ67OG9A3eT7Fs0vV5HjG9M1LCCnE/view?usp=share_link](https://drive.google.com/file/d/1ITRbJ67OG9A3eT7Fs0vV5HjG9M1LCCnE/view?usp=share_link)
+
+- ⚡ Fun fact **I think I am Funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/swapnilkhairnar78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swapnilkhairnar78/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/swapnilkhairnar78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnilkhairnar78" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
