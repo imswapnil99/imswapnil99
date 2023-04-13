@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swapnil Khairnar</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">Skilled DevOps Engineer with 3+ years of Hands-on experience in Automating, Supporting, and Optimizing mission-critical Deployments in AWS,
+leveraging configuration management, CI/CD, and DevOps processes. I am a Tech Enthusiast who loves to explore new and high-end technologies and
+is passionate to learn them to all advanced levels.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imswapnil99&label=Profile%20views&color=0e75b6&style=flat" alt="imswapnil99" /> </p>
 
