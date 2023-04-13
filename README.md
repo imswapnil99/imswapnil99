@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Swapnil Khairnar</h1>
-<h3 align="center">Skilled DevOps Engineer with 3+ years of Hands-on experience in Automating, Supporting, and Optimizing mission-critical Deployments in AWS,
-leveraging configuration management, CI/CD, and DevOps processes. I am a Tech Enthusiast who loves to explore new and high-end technologies and
-is passionate to learn them to all advanced levels.</h3>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Swapnil Khairnar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>DevOps Software Engineer at <a href="https://www.capgemini.com/">Capgemini
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imswapnil99&label=Profile%20views&color=0e75b6&style=flat" alt="imswapnil99" /> </p>
+ 
+
 
 - 🌱 I’m currently learning **Terraform , Ansible , Kubernetes**
 
@@ -15,7 +19,7 @@ is passionate to learn them to all advanced levels.</h3>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ITRbJ67OG9A3eT7Fs0vV5HjG9M1LCCnE/view?usp=share_link](https://drive.google.com/file/d/1ITRbJ67OG9A3eT7Fs0vV5HjG9M1LCCnE/view?usp=share_link)
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **"There are two ways to write error-free programs; only the third one works"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
