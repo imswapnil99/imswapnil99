@@ -20,16 +20,6 @@
 
 
 
-- 🌱 I’m currently learning **Terraform , Ansible , Kubernetes**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/swapnilkhairnar78/](https://www.linkedin.com/in/swapnilkhairnar78/)
-
-- 💬 Ask me about **DevOps , Automation**
-
-- 📫 How to reach me **swapnilkhairnar.78@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ITRbJ67OG9A3eT7Fs0vV5HjG9M1LCCnE/view?usp=share_link](https://drive.google.com/file/d/1ITRbJ67OG9A3eT7Fs0vV5HjG9M1LCCnE/view?usp=share_link)
-
 - ⚡ Fun fact **"There are two ways to write error-free programs; only the third one works"**
 
 <h3 align="left">Connect with me:</h3>
