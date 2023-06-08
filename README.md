@@ -10,11 +10,11 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [Git &amp; Github Cheat Sheet](https://swapnilkhairnar.hashnode.dev/git-github-cheat-sheet)
+ - 🚀 [Python: The DevOps Catalyst](https://swapnilkhairnar.hashnode.dev/python-the-devops-catalyst)
+ - 💫 [Git &amp; Github Cheat Sheet](https://swapnilkhairnar.hashnode.dev/git-github-cheat-sheet)
  - 💫 [Linux Command Cheat Sheet](https://swapnilkhairnar.hashnode.dev/linux-command-cheat-sheet)
  - 💫 [Advance Git &amp; GitHub for DevOps Engineers: Part-2](https://swapnilkhairnar.hashnode.dev/advance-git-github-for-devops-engineers-part-2)
- - 💫 [Advance Git &amp; GitHub for DevOps Engineers: Part-1](https://swapnilkhairnar.hashnode.dev/advance-git-github-for-devops-engineers-part-1)
- - 🌮 [Deep Dive in Git &amp; GitHub for DevOps Engineers.](https://swapnilkhairnar.hashnode.dev/deep-dive-in-git-github-for-devops-engineers)<!-- BLOGPOSTS:END -->
+ - 🌮 [Advance Git &amp; GitHub for DevOps Engineers: Part-1](https://swapnilkhairnar.hashnode.dev/advance-git-github-for-devops-engineers-part-1)<!-- BLOGPOSTS:END -->
 
 
 <h3 align="left">Languages and Tools:</h3>
