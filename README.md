@@ -10,11 +10,11 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [Elevate Your DevOps Game with Python Libraries](https://swapnilkhairnar.hashnode.dev/elevate-your-devops-game-with-python-libraries)
+ - 🚀 [🚀Accelerate Next.js Deployment with AWS Amplify: Terraform and CI/CD for Reliable, Scalable Apps](https://swapnilkhairnar.hashnode.dev/accelerate-nextjs-deployment-with-aws-amplify-terraform-and-cicd-for-reliable-scalable-apps)
+ - 💫 [Elevate Your DevOps Game with Python Libraries](https://swapnilkhairnar.hashnode.dev/elevate-your-devops-game-with-python-libraries)
  - 💫 [Efficient Data Handling in Python for DevOps](https://swapnilkhairnar.hashnode.dev/efficient-data-handling-in-python-for-devops)
  - 💫 [Python: The DevOps Catalyst](https://swapnilkhairnar.hashnode.dev/python-the-devops-catalyst)
- - 💫 [Git &amp; Github Cheat Sheet](https://swapnilkhairnar.hashnode.dev/git-github-cheat-sheet)
- - 🌮 [Linux Command Cheat Sheet](https://swapnilkhairnar.hashnode.dev/linux-command-cheat-sheet)<!-- BLOGPOSTS:END -->
+ - 🌮 [Git &amp; Github Cheat Sheet](https://swapnilkhairnar.hashnode.dev/git-github-cheat-sheet)<!-- BLOGPOSTS:END -->
 
 
 <h3 align="left">Languages and Tools:</h3>
