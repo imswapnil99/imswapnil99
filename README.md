@@ -10,7 +10,7 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [Accelerate Next.js Deployment with AWS Amplify: Terraform and CI/CD for Reliable, Scalable Apps](https://swapnilkhairnar.hashnode.dev/accelerate-nextjs-deployment-with-aws-amplify-terraform-and-cicd-for-reliable-scalable-apps)
+ - 🚀 [🚀Accelerate Next.js Deployment with AWS Amplify: Terraform and CI/CD for Reliable, Scalable Apps](https://swapnilkhairnar.hashnode.dev/accelerate-nextjs-deployment-with-aws-amplify-terraform-and-cicd-for-reliable-scalable-apps)
  - 💫 [Elevate Your DevOps Game with Python Libraries](https://swapnilkhairnar.hashnode.dev/elevate-your-devops-game-with-python-libraries)
  - 💫 [Efficient Data Handling in Python for DevOps](https://swapnilkhairnar.hashnode.dev/efficient-data-handling-in-python-for-devops)
  - 💫 [Python: The DevOps Catalyst](https://swapnilkhairnar.hashnode.dev/python-the-devops-catalyst)
